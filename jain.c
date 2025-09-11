@@ -3,7 +3,7 @@
 
 int main()
 {
-    int i = 10000;
+    int i = 100000;
     printf("hello, try vs %d!\n", i);
 
     return 0;
